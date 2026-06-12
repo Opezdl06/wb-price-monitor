@@ -1,0 +1,6 @@
+vkbottle==4.3.12
+aiohttp==3.9.3
+aiosqlite==0.20.0
+selenium==4.19.0
+webdriver-manager==4.0.1
+APScheduler==3.10.4
